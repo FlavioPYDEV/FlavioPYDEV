@@ -7,7 +7,6 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-codebyflavio.github.io-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white)](https://codebyflavio.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-flaviorodrigues--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviorodrigues-dev/)
 [![Email](https://img.shields.io/badge/Email-flaviorodriguestrb@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flaviorodriguestrb@gmail.com)
 
 </div>
