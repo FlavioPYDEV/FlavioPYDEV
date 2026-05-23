@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a **Back-End Developer & QA Automation Engineer** based in São Paulo, Brazil, with 4+ years of experience building robust REST APIs, automated test suites, and data pipelines.
+I'm a **Full-Stack Developer & QA Automation Engineer** based in São Paulo, Brazil, with 4+ years of experience building robust REST APIs, automated test suites, and data pipelines.
 
 - 🔭 &nbsp;Currently working with **Python, Django REST Framework and PostgreSQL**
 - 🧪 &nbsp;Strong background in **test automation** — Pytest, Selenium, CI/CD with GitHub Actions
